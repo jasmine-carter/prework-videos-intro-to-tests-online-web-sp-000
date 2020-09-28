@@ -2,7 +2,7 @@
 RSpec.configure do |config|
   # Adds color configuration
   config.failure_color = :magenta # or whateer color you like
-  config.success_color = :white
+  config.success_color = :cyan
   config.color = true
   config.tty = true
 
